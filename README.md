@@ -41,7 +41,7 @@ Demo Setup
 5. Open a serial terminal emulator (such as TeraTerm) and connect it to the Nexys A7-100T's serial port, using a baud rate of 9600.
 6. In the green bar at the top of the Vivado window, click **Open target**. Select **Auto connect** from the drop down menu.
 7. In the green bar at the top of the Vivado window, click **Program device**.
-8. In the Program Device Wizard, enter "\<archive extracted location\>vivado_proj/Nexys-A7-100T-OOB.runs/impl_1/top.bit" into the "Bitstream file" field. Then click **Program**.
+8. In the Program Device Wizard, enter "\<archive extracted location\>vivado_proj/Nexys-A7-100T-OOB.runs/impl_1/Nexys4DdrUserDemo.bit" into the "Bitstream file" field. Then click **Program**.
 9. The demo will now be programmed onto the Nexys A7-100T. See the Description section of this README to learn how to interact with this demo.
 
 Next Steps
